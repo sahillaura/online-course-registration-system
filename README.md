@@ -1,2 +1,3 @@
 # online-course-registration-system
 An Online Course Registration System is a web-based platform that allows students to register for courses offered by an educational institution. The system helps streamline the enrollment process by providing students with an interface to select courses, view course details, check prerequisites, and complete registration
+This project is an Online Course Registration System designed to facilitate the course enrollment process for students in an educational institution. The system allows students to register for available courses, check course details, and manage their schedules in an easy-to-use web interface. It helps streamline administrative tasks and improve user experience by automating the course registration workflow.
